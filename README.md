@@ -13,7 +13,7 @@
 <br/>
 <a href="https://cal.com/micahberkley/30min"><img src="https://img.shields.io/badge/📅_Book_30_min-C9A24A?style=for-the-badge" alt="Book a 30 minute call" /></a>
 <a href="https://micahberkley.com/projects"><img src="https://img.shields.io/badge/🌐_17_live_projects-0A0A0C?style=for-the-badge" alt="17 live projects" /></a>
-<img src="https://komarev.com/ghpvc/?username=TheAIMogul&style=for-the-badge&color=C9A24A&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://hits.sh/github.com/TheAIMogul.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=C9A24A&labelColor=0A0A0C" alt="Profile views" />
 
 </div>
 
