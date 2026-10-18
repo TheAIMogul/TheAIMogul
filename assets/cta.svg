@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Want me in your corner? Book the free 30-minute call.">
+<defs>
+  <radialGradient id="halo" cx=".5" cy=".9" r=".7"><stop offset="0" stop-color="#C9A24A" stop-opacity=".35"/><stop offset="1" stop-color="#C9A24A" stop-opacity="0"/></radialGradient>
+  <linearGradient id="btn" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F0D488"/><stop offset=".55" stop-color="#C9A24A"/><stop offset="1" stop-color="#8A6B22"/></linearGradient>
+  <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="bc"><rect x="370" y="178" width="460" height="68" rx="34"/></clipPath>
+</defs>
+<style>
+  .pulse{transform-origin:600px 212px;animation:p 2.4s ease-in-out infinite}
+  @keyframes p{0%,100%{opacity:.0;transform:scale(1)}50%{opacity:.55;transform:scale(1.06)}}
+  .sw{animation:s 3.2s ease-in-out infinite}@keyframes s{0%{transform:translateX(-160px)}60%,100%{transform:translateX(560px)}}
+</style>
+<rect width="1200" height="300" rx="18" fill="#0A0A0C"/>
+<rect width="1200" height="300" rx="18" fill="url(#halo)"/>
+<rect x=".75" y=".75" width="1198.5" height="298.5" rx="18" fill="none" stroke="#C9A24A" stroke-opacity=".35" stroke-width="1.5"/>
+<text x="600" y="78" text-anchor="middle" font-family="'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif" font-size="34">🤝</text>
+<text x="600" y="126" text-anchor="middle" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-weight="800" font-size="40" fill="#F4EEDC">Want me in your corner?</text>
+<text x="600" y="158" text-anchor="middle" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="18" fill="#9A9486">Free 30-minute call. One question: where are you bleeding money right now?</text>
+<rect class="pulse" x="362" y="170" width="476" height="84" rx="42" fill="none" stroke="#F0D488" stroke-width="2"/>
+<rect x="370" y="178" width="460" height="68" rx="34" fill="url(#btn)"/>
+<g clip-path="url(#bc)"><rect class="sw" x="370" y="178" width="120" height="68" fill="url(#sh)"/></g>
+<text x="600" y="220" text-anchor="middle" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-weight="800" font-size="20" letter-spacing="2" fill="#0A0A0C">📅  BOOK THE FREE CALL  →</text>
+</svg>
