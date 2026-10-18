@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="img" aria-label="divider">
+<defs>
+  <linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C9A24A" stop-opacity="0"/><stop offset=".5" stop-color="#C9A24A" stop-opacity=".6"/><stop offset="1" stop-color="#C9A24A" stop-opacity="0"/></linearGradient>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F0D488" stop-opacity="0"/><stop offset=".5" stop-color="#F0D488"/><stop offset="1" stop-color="#F0D488" stop-opacity="0"/></linearGradient>
+</defs>
+<style>.g{animation:m 4.5s ease-in-out infinite}@keyframes m{0%{transform:translateX(-200px)}100%{transform:translateX(1200px)}}</style>
+<rect y="11.5" width="1200" height="1" fill="url(#l)"/>
+<rect class="g" y="11" width="200" height="2" fill="url(#g)"/>
+<rect x="594" y="6" width="12" height="12" transform="rotate(45 600 12)" fill="#0A0A0C" stroke="#C9A24A" stroke-width="1.5"/>
+</svg>

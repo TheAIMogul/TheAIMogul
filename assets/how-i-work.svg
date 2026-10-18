@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1190 280" width="1190" height="280" role="img" aria-label="How I work. STRATEGY: A seat in leadership meetings. Map where AI cuts cost and unlocks revenue. 90-day roadmap tied to one real KPI. TRANSFORMATION: Hands-on builds. Agent workflows, automations, integrations. I ship, not decks. EDUCATION: Team enablement sessions. Your people learn to run what gets built. OUTCOME REPORT: One page a month. What moved, what is next, what it is worth. Written for your board.">
+<style>
+  .ar{animation:nx 2.4s ease-in-out infinite}
+  @keyframes nx{0%,100%{opacity:.25;transform:translateX(-3px)}50%{opacity:1;transform:translateX(3px)}}
+</style>
+<rect width="1190" height="280" rx="18" fill="#0A0A0C"/>
+
+<g class="card" style="animation-delay:0.0s">
+  <rect x="25" y="25" width="270" height="230" rx="16" fill="#111116" stroke="#C9A24A" stroke-opacity=".3"/>
+  <text x="273" y="117" text-anchor="end" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-weight="800" font-size="96" fill="#C9A24A" opacity=".13">S</text>
+  <text x="47" y="65" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="2" fill="#C9A24A">01</text>
+  <text x="47" y="125" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-weight="700" font-size="21" letter-spacing="1" fill="#F4EEDC">STRATEGY</text>
+  <rect x="47" y="139" width="40" height="2" fill="#C9A24A"/>
+  <text x="47" y="165" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="15.5" fill="#9A9486">A seat in leadership meetings.</text><text x="47" y="187" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="15.5" fill="#9A9486">Map where AI cuts cost and</text><text x="47" y="209" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="15.5" fill="#9A9486">unlocks revenue. 90-day</text><text x="47" y="231" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="15.5" fill="#9A9486">roadmap tied to one real KPI.</text>
+</g><path class="ar" style="animation-delay:0.0s" d="M299.0 133.0 l7 7 l-7 7" fill="none" stroke="#C9A24A" stroke-width="2"/>
+<g class="card" style="animation-delay:0.15s">
+  <rect x="315" y="25" width="270" height="230" rx="16" fill="#111116" stroke="#C9A24A" stroke-opacity=".3"/>
+  <text x="563" y="117" text-anchor="end" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-weight="800" font-size="96" fill="#C9A24A" opacity=".13">T</text>
+  <text x="337" y="65" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="2" fill="#C9A24A">02</text>
+  <text x="337" y="125" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-weight="700" font-size="21" letter-spacing="1" fill="#F4EEDC">TRANSFORMATION</text>
+  <rect x="337" y="139" width="40" height="2" fill="#C9A24A"/>
+  <text x="337" y="165" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="15.5" fill="#9A9486">Hands-on builds. Agent</text><text x="337" y="187" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="15.5" fill="#9A9486">workflows, automations,</text><text x="337" y="209" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="15.5" fill="#9A9486">integrations. I ship, not decks.</text>
+</g><path class="ar" style="animation-delay:0.4s" d="M589.0 133.0 l7 7 l-7 7" fill="none" stroke="#C9A24A" stroke-width="2"/>
+<g class="card" style="animation-delay:0.3s">
+  <rect x="605" y="25" width="270" height="230" rx="16" fill="#111116" stroke="#C9A24A" stroke-opacity=".3"/>
+  <text x="853" y="117" text-anchor="end" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-weight="800" font-size="96" fill="#C9A24A" opacity=".13">E</text>
+  <text x="627" y="65" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="2" fill="#C9A24A">03</text>
+  <text x="627" y="125" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-weight="700" font-size="21" letter-spacing="1" fill="#F4EEDC">EDUCATION</text>
+  <rect x="627" y="139" width="40" height="2" fill="#C9A24A"/>
+  <text x="627" y="165" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="15.5" fill="#9A9486">Team enablement sessions.</text><text x="627" y="187" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="15.5" fill="#9A9486">Your people learn to run</text><text x="627" y="209" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="15.5" fill="#9A9486">what gets built.</text>
+</g><path class="ar" style="animation-delay:0.8s" d="M879.0 133.0 l7 7 l-7 7" fill="none" stroke="#C9A24A" stroke-width="2"/>
+<g class="card" style="animation-delay:0.44999999999999996s">
+  <rect x="895" y="25" width="270" height="230" rx="16" fill="#111116" stroke="#C9A24A" stroke-opacity=".3"/>
+  <text x="1143" y="117" text-anchor="end" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-weight="800" font-size="96" fill="#C9A24A" opacity=".13">R</text>
+  <text x="917" y="65" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="2" fill="#C9A24A">04</text>
+  <text x="917" y="125" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-weight="700" font-size="21" letter-spacing="1" fill="#F4EEDC">OUTCOME REPORT</text>
+  <rect x="917" y="139" width="40" height="2" fill="#C9A24A"/>
+  <text x="917" y="165" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="15.5" fill="#9A9486">One page a month. What moved,</text><text x="917" y="187" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="15.5" fill="#9A9486">what is next, what it is worth.</text><text x="917" y="209" font-family="'Avenir Next','Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="15.5" fill="#9A9486">Written for your board.</text>
+</g>
+</svg>
