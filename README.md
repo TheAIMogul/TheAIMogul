@@ -11,145 +11,192 @@
 <a href="https://facebook.com/TheAIMogul"><img src="https://img.shields.io/badge/TheAIMogul-0A0A0C?style=for-the-badge&logo=facebook&logoColor=C9A24A" alt="Facebook" /></a>
 <a href="https://resume.micahberkley.com"><img src="https://img.shields.io/badge/Résumé-0A0A0C?style=for-the-badge&logo=readdotcv&logoColor=C9A24A" alt="Résumé" /></a>
 <br/>
-<a href="https://cal.com/micahberkley/30min"><img src="https://img.shields.io/badge/Book_30_min-C9A24A?style=for-the-badge&logo=googlecalendar&logoColor=0A0A0C" alt="Book a 30 minute call" /></a>
+<a href="https://cal.com/micahberkley/30min"><img src="https://img.shields.io/badge/📅_Book_30_min-C9A24A?style=for-the-badge" alt="Book a 30 minute call" /></a>
+<a href="https://micahberkley.com/projects"><img src="https://img.shields.io/badge/🌐_17_live_projects-0A0A0C?style=for-the-badge" alt="17 live projects" /></a>
 <img src="https://komarev.com/ghpvc/?username=TheAIMogul&style=for-the-badge&color=C9A24A&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 <br/>
 
-> ### I'm the Fractional Chief of AI for businesses that know they're behind.
-> ### I take you from watching AI happen to running on it in 90 days.
+## 👋 Hey, I'm Micah
 
-Everybody else is selling AI to people who already get it. I'm for the ones who don't. Yet.
+<table>
+<tr>
+<td width="36%" align="center" valign="middle">
+<img src="assets/avatar.webp" width="250" alt="Micah Berkley" />
+<br/>
+<sub><b>MICAH BERKLEY</b> · #TheAIMogul</sub>
+</td>
+<td valign="middle">
 
-Two decades in enterprise tech. Google. BMW. Fashion Nova. I walked rooms where leadership didn't speak the technology, and I built the bridge every time. Now I do it for owners who know AI is happening and quietly know they're behind.
+🧠 &nbsp;**Fractional Chief of AI** for businesses that know they're behind<br/>
+📍 &nbsp;Miami, FL · building in public, every day<br/>
+☁️ &nbsp;Ex-**Google Cloud** Architect and SRE · BMW · Fashion Nova<br/>
+📞 &nbsp;**50,000** voice AI calls in production for legal intake<br/>
+📈 &nbsp;**+25% profit** for a Wynwood restaurant on a free AI content stack<br/>
+🚀 &nbsp;Built [**Claresto**](https://claresto.com), [**FieldProspects**](https://fieldprospects.com), [**OnePageSocial**](https://onepagesocial.com), [**RideReady**](https://tryrideready.com)<br/>
+📰 &nbsp;Front page of the **Miami Herald** · 🏆 **Black Enterprise** Top 10 Under 35<br/>
+🎨 &nbsp;**Adobe** AI Change Maker · 🎓 **Brown** Computer Science<br/>
+🎤 &nbsp;Runs **GP Tuesdays**, free weekly AI training for Miami entrepreneurs<br/>
+⚡ &nbsp;Ask me about voice AI, agent systems, AI search, and shipping fast
 
-I speak both languages. Business and machine. I sit on your side of the table.
+</td>
+</tr>
+</table>
+
+> [!TIP]
+> **I'm the Fractional Chief of AI for businesses that know they're behind. I take you from watching AI happen to running on it in 90 days.**
+>
+> Everybody else is selling AI to people who already get it. I'm for the ones who don't. Yet.
+
+<img src="assets/stats.svg" width="100%" alt="50,000 voice AI calls in production. +25% profit for a Wynwood restaurant. 17 live companies, products and sites. 20 years in enterprise tech." />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## The receipts
+## 🏆 The receipts
 
-<img src="assets/proof.svg" width="100%" alt="Proof stack: Claresto.com, Google, Senior SRE, iExcel agents, Miami Herald front page, Black Enterprise Top 10 Under 35 in Tech, Adobe AI Change Maker, Brown CS, GP Tuesdays." />
+<img src="assets/proof.svg" width="100%" alt="Receipts: Claresto, Google Cloud, 50,000 voice AI calls, +25% profit, Miami Herald front page, Black Enterprise Top 10 Under 35 in Tech, Adobe AI Change Maker, Brown CS, GP Tuesdays." />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## What I ship
-
-Most of my work runs in private repos. These are live. Click them right now.
+## 🚀 Featured builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://claresto.com"><img src="assets/ships/claresto.webp" width="100%" alt="Claresto homepage" /></a>
 
-### [Claresto](https://claresto.com)
-**Catch the ad mistakes before your clients do.**<br/>
-The Ad Operations Command Center. Live SaaS. My first receipt, every time.
+### 🎯 [Claresto](https://claresto.com)
+Watches every client ad account and catches the mistakes **before the client does**. The Ad Operations Command Center.
 
-`SaaS` `Ad Ops` `AI`
-
+<a href="https://claresto.com"><img src="https://img.shields.io/badge/●_LIVE-1a3d24?style=flat-square" alt="Live" /></a>
+<a href="https://claresto.com"><img src="https://img.shields.io/badge/Visit_→-C9A24A?style=flat-square" alt="Visit" /></a>
 </td>
 <td width="50%" valign="top">
+<a href="https://fieldprospects.com"><img src="assets/ships/fieldprospects.webp" width="100%" alt="FieldProspects homepage" /></a>
 
-### [MailCheap](https://mailcheap.ai) · [source](https://github.com/TheAIMogul/GoGoGadgetNewsletter)
-**Pay for the emails you send. Not for dormant subscribers.**<br/>
-Newsletters at a fraction of beehiiv pricing. Open source. Self-host it or use mailcheap.ai.
+### ⚡ [FieldProspects](https://fieldprospects.com)
+Every US power project and data center, **and the people behind them**, in one searchable database.
 
-`Open Source` `Email` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Blackout Box](https://blackoutbox.micahberkley.com) · [source](https://github.com/TheAIMogul/blackout-box)
-**Keeps working when the power and signal don't.**<br/>
-Hurricane PWA. Food and insulin countdowns from FDA and USDA data, evac zones, king tides. Built for Hack for Humanity Miami 2026.
-
-`PWA` `Offline-first` `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-### [Run the Eval](https://chicagonosnow.com)
-**No hype. Just receipts.**<br/>
-My AI and tech review desk.
-
-`Astro` `Reviews` `GEO`
-
+<a href="https://fieldprospects.com"><img src="https://img.shields.io/badge/●_LIVE-1a3d24?style=flat-square" alt="Live" /></a>
+<a href="https://fieldprospects.com"><img src="https://img.shields.io/badge/Visit_→-C9A24A?style=flat-square" alt="Visit" /></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://onepagesocial.com"><img src="assets/ships/onepagesocial.webp" width="100%" alt="OnePageSocial homepage" /></a>
 
-### [OnePageSocial](https://onepagesocial.com)
-**Paste anything. Win on every platform.**<br/>
-One input. Every channel.
+### ✍️ [OnePageSocial](https://onepagesocial.com)
+Paste anything and get a post that **wins on every platform**. One idea in, a content pack out.
 
-`TypeScript` `AI` `Social`
-
+<a href="https://onepagesocial.com"><img src="https://img.shields.io/badge/●_LIVE-1a3d24?style=flat-square" alt="Live" /></a>
+<a href="https://onepagesocial.com"><img src="https://img.shields.io/badge/Visit_→-C9A24A?style=flat-square" alt="Visit" /></a>
 </td>
 <td width="50%" valign="top">
+<a href="https://runtheeval.com"><img src="assets/ships/runtheeval.webp" width="100%" alt="Run the Eval homepage" /></a>
 
-### [Future Leaders in AI](https://futureleadersinai.com)
-**How nonprofits and community groups put AI to work.**
+### 🧪 [Run the Eval](https://runtheeval.com)
+No-hype AI and tech review desk. Honest comparisons and **is-it-worth-it verdicts**.
 
-`Community` `Education`
+<a href="https://runtheeval.com"><img src="https://img.shields.io/badge/●_LIVE-1a3d24?style=flat-square" alt="Live" /></a>
+<a href="https://runtheeval.com"><img src="https://img.shields.io/badge/Visit_→-C9A24A?style=flat-square" alt="Visit" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://mailcheap.ai"><img src="assets/ships/mailcheap.webp" width="100%" alt="MailCheap homepage" /></a>
 
+### 📬 [MailCheap](https://mailcheap.ai)
+Newsletters where you **pay for the emails you send**, not for dormant subscribers. Open source. Self-host it or use the cloud.
+
+<a href="https://github.com/TheAIMogul/GoGoGadgetNewsletter"><img src="https://img.shields.io/badge/Source-0A0A0C?style=flat-square&logo=github&logoColor=C9A24A" alt="Source" /></a>
+<a href="https://mailcheap.ai"><img src="https://img.shields.io/badge/Visit_→-C9A24A?style=flat-square" alt="Visit" /></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://blackoutbox.micahberkley.com"><img src="assets/ships/blackoutbox.webp" width="100%" alt="Blackout Box app" /></a>
+
+### 🌀 [Blackout Box](https://blackoutbox.micahberkley.com)
+Hurricane app that **keeps working when the power and signal don't**. Food and insulin countdowns, evac zones, king tides. Built for Hack for Humanity Miami 2026.
+
+<a href="https://github.com/TheAIMogul/blackout-box"><img src="https://img.shields.io/badge/Source-0A0A0C?style=flat-square&logo=github&logoColor=C9A24A" alt="Source" /></a>
+<a href="https://blackoutbox.micahberkley.com"><img src="https://img.shields.io/badge/Visit_→-C9A24A?style=flat-square" alt="Visit" /></a>
 </td>
 </tr>
 </table>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## How I work
+## 🌐 Everything I run
+
+#### 🏢 Companies
+
+<a href="https://aisuccesspartners.com"><img src="assets/tiles/aisuccesspartners.webp" width="24%" alt="AI Success Partners" /></a>
+<a href="https://iexcel.co"><img src="assets/tiles/iexcel.webp" width="24%" alt="iExcel" /></a>
+<a href="https://ai4grants.com"><img src="assets/tiles/ai4grants.webp" width="24%" alt="AI4Grants" /></a>
+
+#### 🛠️ Software and tools
+
+<a href="https://claresto.com"><img src="assets/tiles/claresto.webp" width="24%" alt="Claresto" /></a>
+<a href="https://fieldprospects.com"><img src="assets/tiles/fieldprospects.webp" width="24%" alt="FieldProspects" /></a>
+<a href="https://onepagesocial.com"><img src="assets/tiles/onepagesocial.webp" width="24%" alt="OnePageSocial" /></a>
+<a href="https://tryrideready.com"><img src="assets/tiles/rideready.webp" width="24%" alt="RideReady" /></a>
+<a href="https://mailforeman.com"><img src="assets/tiles/mailforeman.webp" width="24%" alt="Mail Foreman" /></a>
+<a href="https://mailcheap.ai"><img src="assets/tiles/mailcheap.webp" width="24%" alt="MailCheap" /></a>
+<a href="https://aisearchgrader.co"><img src="assets/tiles/aisearchgrader.webp" width="24%" alt="AI Search Grader" /></a>
+<a href="https://vibecloud.theaimogul.com"><img src="assets/tiles/vibecloud.webp" width="24%" alt="VibeCloud" /></a>
+<a href="https://meridian.micahberkley.com"><img src="assets/tiles/meridian.webp" width="24%" alt="Meridian" /></a>
+<a href="https://blackoutbox.micahberkley.com"><img src="assets/tiles/blackoutbox.webp" width="24%" alt="Blackout Box" /></a>
+<a href="https://freedigitalmarketing.com"><img src="assets/tiles/freedigitalmarketing.webp" width="24%" alt="Free Digital Marketing" /></a>
+
+#### 📰 Media, guides and community
+
+<a href="https://runtheeval.com"><img src="assets/tiles/runtheeval.webp" width="24%" alt="Run the Eval" /></a>
+<a href="https://tpssurvivalguide.com"><img src="assets/tiles/tpssurvivalguide.webp" width="24%" alt="TPS Survival Guide" /></a>
+<a href="https://nextstepcounseling.net"><img src="assets/tiles/nextstepcounseling.webp" width="24%" alt="Next Step Counseling" /></a>
+<a href="https://moguldistrict.com"><img src="assets/tiles/moguldistrict.webp" width="24%" alt="Mogul District" /></a>
+
+#### 🌴 Miami
+
+<a href="https://miamigtatours.com"><img src="assets/tiles/miamigtatours.webp" width="24%" alt="Miami GTA Tours" /></a>
+<a href="https://thisisvicecity.com"><img src="assets/tiles/thisisvicecity.webp" width="24%" alt="This Is Vice City" /></a>
+<a href="https://conciergeivnurse.com"><img src="assets/tiles/conciergeivnurse.webp" width="24%" alt="Concierge IV Nurse" /></a>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## ⚙️ How I work
 
 <img src="assets/how-i-work.svg" width="100%" alt="How I work: Strategy, Transformation, Education, and a one-page monthly outcome report." />
 
-No hourly billing. No tool reselling. No decks that sit in a drawer. The roadmap is the scope, and every engagement moves a real number.
+✅ &nbsp;Every engagement moves **one real number**&nbsp;&nbsp;·&nbsp;&nbsp;✅ &nbsp;I ship, not decks&nbsp;&nbsp;·&nbsp;&nbsp;✅ &nbsp;Plain language, on purpose<br/>
+❌ &nbsp;No hourly billing&nbsp;&nbsp;·&nbsp;&nbsp;❌ &nbsp;No tool reselling&nbsp;&nbsp;·&nbsp;&nbsp;❌ &nbsp;No decks that sit in a drawer
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## The stack
+## 🧰 The stack
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/cloudflare/C9A24A" width="40" height="40" alt="Cloudflare" /><br/><sub>Cloudflare</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/cloudflareworkers/C9A24A" width="40" height="40" alt="Workers" /><br/><sub>Workers</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/C9A24A" width="40" height="40" alt="Claude" /><br/><sub>Claude</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/C9A24A" width="40" height="40" alt="Gemini" /><br/><sub>Gemini</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/googlecloud/C9A24A" width="40" height="40" alt="Google Cloud" /><br/><sub>Google Cloud</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/typescript/C9A24A" width="40" height="40" alt="TypeScript" /><br/><sub>TypeScript</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/python/C9A24A" width="40" height="40" alt="Python" /><br/><sub>Python</sub></td>
-</tr>
-<tr>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/astro/C9A24A" width="40" height="40" alt="Astro" /><br/><sub>Astro</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/react/C9A24A" width="40" height="40" alt="React" /><br/><sub>React</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/nextdotjs/C9A24A" width="40" height="40" alt="Next.js" /><br/><sub>Next.js</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/nodedotjs/C9A24A" width="40" height="40" alt="Node.js" /><br/><sub>Node.js</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/vite/C9A24A" width="40" height="40" alt="Vite" /><br/><sub>Vite</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/tailwindcss/C9A24A" width="40" height="40" alt="Tailwind CSS" /><br/><sub>Tailwind</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/sqlite/C9A24A" width="40" height="40" alt="SQLite / D1" /><br/><sub>SQLite / D1</sub></td>
-</tr>
-<tr>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/swift/C9A24A" width="40" height="40" alt="Swift" /><br/><sub>Swift</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/stripe/C9A24A" width="40" height="40" alt="Stripe" /><br/><sub>Stripe</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/docker/C9A24A" width="40" height="40" alt="Docker" /><br/><sub>Docker</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/github/C9A24A" width="40" height="40" alt="GitHub" /><br/><sub>GitHub</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/zapier/C9A24A" width="40" height="40" alt="Zapier" /><br/><sub>Zapier</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/pwa/C9A24A" width="40" height="40" alt="PWA" /><br/><sub>PWA</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/html5/C9A24A" width="40" height="40" alt="HTML5" /><br/><sub>HTML5</sub></td>
-</tr>
-</table>
-</div>
 
-I treat models like employees. Right model, right job. Claude, Gemini, GPT, Grok, open weights. Whoever does the work best gets the work.
+<img src="https://skillicons.dev/icons?i=cloudflare,workers,gcp,ts,py,js,nodejs,bun&perline=8" alt="Cloudflare, Workers, Google Cloud, TypeScript, Python, JavaScript, Node.js, Bun" /><br/>
+<img src="https://skillicons.dev/icons?i=astro,react,nextjs,vite,tailwind,sqlite,postgres,swift&perline=8" alt="Astro, React, Next.js, Vite, Tailwind, SQLite, Postgres, Swift" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,github,githubactions,vercel,figma,html,css,bash&perline=8" alt="Docker, GitHub, GitHub Actions, Vercel, Figma, HTML, CSS, Bash" />
+
+**🤖 The AI team I hire for every job**
+
+<img src="https://img.shields.io/badge/Claude_Code-0A0A0C?style=for-the-badge&logo=anthropic&logoColor=C9A24A" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Gemini-0A0A0C?style=for-the-badge&logo=googlegemini&logoColor=C9A24A" alt="Gemini" />
+<img src="https://img.shields.io/badge/Codex-0A0A0C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0M5QTI0QSIgZD0iTTMgNGgxOGExIDEgMCAwIDEgMSAxdjE0YTEgMSAwIDAgMS0xIDFIM2ExIDEgMCAwIDEtMS0xVjVhMSAxIDAgMCAxIDEtMXptMSAydjEyaDE2VjZ6bTIuMyAyLjMgMS40LTEuNEwxMS44IDExbC00LjEgNC4xLTEuNC0xLjRMOSAxMXpNMTIgMTRoNnYyaC02eiIvPjwvc3ZnPg%3D%3D" alt="Codex" />
+<img src="https://img.shields.io/badge/Grok-0A0A0C?style=for-the-badge&logo=x&logoColor=C9A24A" alt="Grok" />
+<img src="https://img.shields.io/badge/Workers_AI-0A0A0C?style=for-the-badge&logo=cloudflare&logoColor=C9A24A" alt="Workers AI" />
+<img src="https://img.shields.io/badge/Voice_AI-0A0A0C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0M5QTI0QSIgZD0iTTEyIDE0YTMgMyAwIDAgMCAzLTNWNWEzIDMgMCAwIDAtNiAwdjZhMyAzIDAgMCAwIDMgM3ptNS0zYTUgNSAwIDAgMS0xMCAwSDVhNyA3IDAgMCAwIDYgNi45VjIxaDJ2LTMuMUE3IDcgMCAwIDAgMTkgMTF6Ii8%2BPC9zdmc%2B" alt="Voice AI" />
+
+<sub>I treat models like employees. Right model, right job. Whoever does the work best gets the work.</sub>
+
+</div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## Always building
+## 🐍 Always building
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheAIMogul/TheAIMogul/output/snake-dark.svg" />
@@ -157,16 +204,16 @@ I treat models like employees. Right model, right job. Claude, Gemini, GPT, Grok
   <img src="https://raw.githubusercontent.com/TheAIMogul/TheAIMogul/output/snake-dark.svg" width="100%" alt="Contribution graph eaten by a snake" />
 </picture>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<br/><br/>
 
 <div align="center">
 
-## Want me in your corner?
+<a href="https://cal.com/micahberkley/30min"><img src="assets/cta.svg" width="100%" alt="Want me in your corner? Book the free 30-minute call." /></a>
 
-Free 30-minute call. One question: **where are you bleeding money right now?**
-
-<a href="https://cal.com/micahberkley/30min"><img src="https://img.shields.io/badge/Book_the_call-C9A24A?style=for-the-badge&logo=googlecalendar&logoColor=0A0A0C" alt="Book the call" /></a>
-<a href="https://micahberkley.com/consult"><img src="https://img.shields.io/badge/How_it_works-0A0A0C?style=for-the-badge&logo=readme&logoColor=C9A24A" alt="How it works" /></a>
+<a href="https://cal.com/micahberkley/30min"><img src="https://img.shields.io/badge/📅_Book_the_call-C9A24A?style=for-the-badge" alt="Book the call" /></a>
+<a href="https://micahberkley.com/consult"><img src="https://img.shields.io/badge/📖_How_it_works-0A0A0C?style=for-the-badge" alt="How it works" /></a>
+<a href="https://micahberkley.com/press"><img src="https://img.shields.io/badge/📰_Press-0A0A0C?style=for-the-badge" alt="Press" /></a>
+<a href="https://micahberkley.com/speaking"><img src="https://img.shields.io/badge/🎤_Speaking-0A0A0C?style=for-the-badge" alt="Speaking" /></a>
 
 <br/><br/>
 
